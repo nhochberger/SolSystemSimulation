@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <system name="Sol System">
-	<sun name="Sol">
-		<planet name="Mercury"></planet>
-		<planet name="Venus"></planet>
-		<planet name="Earth">
-			<moon name="Luna"></moon>
+	<sun name="Sol" radius="695508" texture="2k_sun.jpg">
+		<planet name="Mercury" radius="2_440" majorSemiaxis="57_909_175" eccentricity="0.205_630_69" inclination="7.004_87" ascendingNodeLongitude="48.331_67" periapsisArgument="77.456_45" texture="2k_mercury.jpg" />
+		<planet name="Venus" radius="6_052" majorSemiaxis="108_208_930" eccentricity="0.006_773_23" inclination="3.394_71" ascendingNodeLongitude="76.680_69" periapsisArgument="131.532_98" texture="2k_venus_atmosphere.jpg" />
+		<planet name="Earth" radius="6_378" majorSemiaxis="149_597_890" eccentricity="0.016_710_22" inclination="0" ascendingNodeLongitude="-11.260_64" periapsisArgument="102.947_19" texture="2k_earth_daymap.jpg">
+			<moon name="Luna" />
 		</planet>
-		<planet name="Mars">
-			<moon name="Phobos"></moon>
-			<moon name="Deimos"></moon>
+		<planet name="Mars" radius="3_397" majorSemiaxis="227_936_640" eccentricity="0.093_412_33" inclination="1.850_61" ascendingNodeLongitude="49.578_54" periapsisArgument="336.040_84" texture="2k_mars.jpg">
+			<moon name="Phobos"/>
+			<moon name="Deimos"/>
 		</planet>
-		<planet name="Jupiter">
-			<moon name="Metis"></moon>
-			<moon name="Amalthea"></moon>
-			<moon name="Thebe"></moon>
-			<moon name="Kallisto"></moon>
-			<moon name="Ganymed"></moon>
-			<moon name="Europa"></moon>
-			<moon name="Io"></moon>
-			<moon name="Himalia"></moon>
-			<moon name="Elara"></moon>
+		<planet name="Jupiter" radius="71_493" majorSemiaxis="778_412_020" eccentricity="0.048_392_66" inclination="1.305_30" ascendingNodeLongitude="100.556_15" periapsisArgument="14.753_85" texture="2k_jupiter.jpg">
+			<moon name="Metis" />
+			<moon name="Amalthea" />
+			<moon name="Thebe" />
+			<moon name="Kallisto" />
+			<moon name="Ganymed" />
+			<moon name="Europa" />
+			<moon name="Io" />
+			<moon name="Himalia" />
+			<moon name="Elara" />
 		</planet>
-		<planet name="Saturn">
-			<moon name="Mimas"></moon>
-			<moon name="Enceladus"></moon>
-			<moon name="Tethys"></moon>
-			<moon name="Dione"></moon>
-			<moon name="Rhea"></moon>
-			<moon name="Titan"></moon>
-			<moon name="Hyperion"></moon>
-			<moon name="Iapetus"></moon>
-			<moon name="Phoebe"></moon>
-			<moon name="Janus"></moon>
-			<moon name="Epimetheus"></moon>
-			<moon name="Atlas"></moon>
-			<moon name="Prometheus"></moon>
-			<moon name="Pandora"></moon>
+		<planet name="Saturn" radius="60_267" majorSemiaxis="1_426_725_400" eccentricity="0.054_150_60" inclination="2.484_46" ascendingNodeLongitude="113.715_04" periapsisArgument="92.43194" texture="2k_saturn.jpg">
+			<moon name="Mimas" />
+			<moon name="Enceladus" />
+			<moon name="Tethys" />
+			<moon name="Dione" />
+			<moon name="Rhea" />
+			<moon name="Titan" />
+			<moon name="Hyperion" />
+			<moon name="Iapetus" />
+			<moon name="Phoebe" />
+			<moon name="Janus" />
+			<moon name="Epimetheus" />
+			<moon name="Atlas" />
+			<moon name="Prometheus" />
+			<moon name="Pandora" />
 		</planet>
-		<planet name="Uranus"></planet>
-		<planet name="Neptun"></planet>
+		<planet name="Uranus" radius="25_559" majorSemiaxis="2_870_972_200" eccentricity="0.047_167_71" inclination="0.769_86" ascendingNodeLongitude="74.229_88" periapsisArgument="170.964_24" texture="2k_uranus.jpg" />
+		<planet name="Neptun" radius="24_764" majorSemiaxis="4_498_252_900" eccentricity="0.008_585_87" inclination="1.769_17" ascendingNodeLongitude="131.721_69" periapsisArgument="44.971_35" texture="2k_neptun.jpg" />
 	</sun>
 </system>
