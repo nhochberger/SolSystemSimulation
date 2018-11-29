@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<system name="Sol System">
+	<sun name="Sol">
+		<planet name="Mercury"></planet>
+		<planet name="Venus"></planet>
+		<planet name="Earth">
+			<moon name="Luna"></moon>
+		</planet>
+		<planet name="Mars">
+			<moon name="Phobos"></moon>
+			<moon name="Deimos"></moon>
+		</planet>
+		<planet name="Jupiter">
+			<moon name="Metis"></moon>
+			<moon name="Amalthea"></moon>
+			<moon name="Thebe"></moon>
+			<moon name="Kallisto"></moon>
+			<moon name="Ganymed"></moon>
+			<moon name="Europa"></moon>
+			<moon name="Io"></moon>
+			<moon name="Himalia"></moon>
+			<moon name="Elara"></moon>
+		</planet>
+		<planet name="Saturn">
+			<moon name="Mimas"></moon>
+			<moon name="Enceladus"></moon>
+			<moon name="Tethys"></moon>
+			<moon name="Dione"></moon>
+			<moon name="Rhea"></moon>
+			<moon name="Titan"></moon>
+			<moon name="Hyperion"></moon>
+			<moon name="Iapetus"></moon>
+			<moon name="Phoebe"></moon>
+			<moon name="Janus"></moon>
+			<moon name="Epimetheus"></moon>
+			<moon name="Atlas"></moon>
+			<moon name="Prometheus"></moon>
+			<moon name="Pandora"></moon>
+		</planet>
+		<planet name="Uranus"></planet>
+		<planet name="Neptun"></planet>
+	</sun>
+</system>
