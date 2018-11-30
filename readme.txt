@@ -1,0 +1,1 @@
+Textures taken from or based on https://www.solarsystemscope.com/textures/
